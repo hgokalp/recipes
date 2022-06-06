@@ -1,0 +1,1 @@
+This project is to apply the html, git(hub) and bash knowledge I've obtained in the odinproject course (fullstackdev foundations part)
